@@ -56,4 +56,10 @@ public class MainActivity extends AppCompatActivity {
         super.onStop();
         Log.d(LOG_TAG, "onStop");
     }
+
+    public void add()
+    {
+        int a = 1+1;
+    }
 }
+
