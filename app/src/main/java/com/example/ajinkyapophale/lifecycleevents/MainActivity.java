@@ -76,6 +76,10 @@ public class MainActivity extends AppCompatActivity {
         int e = 1%1;
     }
 
+    public void magar(){
+
+    }
+
     public void abcd(){
 
     }
