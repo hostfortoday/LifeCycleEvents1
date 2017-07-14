@@ -71,5 +71,9 @@ public class MainActivity extends AppCompatActivity {
         int c = 5*2;
     }
 
+    public void div(){
+        int d = 5/2;
+    }
+
 }
 
