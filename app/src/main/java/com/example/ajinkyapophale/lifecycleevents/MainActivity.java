@@ -66,5 +66,10 @@ public class MainActivity extends AppCompatActivity {
     {
         int b = 5-3;
     }
+
+    public void mul(){
+        int c = 5*2;
+    }
+
 }
 
