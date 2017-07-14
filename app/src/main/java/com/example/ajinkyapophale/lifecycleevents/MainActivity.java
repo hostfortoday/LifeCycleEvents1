@@ -83,5 +83,10 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void kasgkj()
+    {
+        int f;
+    }
+
 }
 
