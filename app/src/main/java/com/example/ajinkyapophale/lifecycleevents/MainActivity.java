@@ -61,5 +61,10 @@ public class MainActivity extends AppCompatActivity {
     {
         int a = 1+1;
     }
+
+    public void sub()
+    {
+        int b = 5-3;
+    }
 }
 
