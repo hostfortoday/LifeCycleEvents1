@@ -92,7 +92,11 @@ public class MainActivity extends AppCompatActivity {
         int f;
     }
 
-    private asasnan()
+    public void snehal(){
+
+    }
+
+    private void asasnan()
     {
         int sf;
     }
