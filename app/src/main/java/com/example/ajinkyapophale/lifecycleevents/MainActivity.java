@@ -92,5 +92,10 @@ public class MainActivity extends AppCompatActivity {
         int f;
     }
 
+    private asasnan()
+    {
+        int sf;
+    }
+
 }
 
